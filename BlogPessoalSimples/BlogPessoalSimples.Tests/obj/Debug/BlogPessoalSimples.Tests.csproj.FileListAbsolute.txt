@@ -3,9 +3,6 @@ D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.T
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\BlogPessoalSimples.Tests.dll.config
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\BlogPessoalSimples.Tests.dll
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\BlogPessoalSimples.Tests.pdb
@@ -43,3 +40,13 @@ D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.T
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\obj\Debug\BlogPessoalSimples.Tests.csproj.CopyComplete
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\obj\Debug\BlogPessoalSimples.Tests.dll
 D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\obj\Debug\BlogPessoalSimples.Tests.pdb
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\WebGrease.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\bin\Debug\Antlr3.Runtime.pdb
