@@ -1,0 +1,2 @@
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\obj\Debug\BlogPessoalSimples.Tests.csprojAssemblyReference.cache
+D:\Projetos WEB\asp.net-mvc-blog-pessoal\BlogPessoalSimples\BlogPessoalSimples.Tests\obj\Debug\BlogPessoalSimples.Tests.csproj.CoreCompileInputs.cache
